@@ -1,0 +1,1 @@
+export type movie = { id?: number, name: string, genero?: string, faixa_etaria?: number }
